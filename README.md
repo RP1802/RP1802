@@ -57,7 +57,7 @@
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritesh-patil-963042227/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://github.com/RP1802/Portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://github.com/RP1802/Portfolio)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:riteshpatil1802@gmail.com)
 
 ---
