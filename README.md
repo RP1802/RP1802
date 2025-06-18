@@ -32,15 +32,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🔹 [Project Name](Link-to-Repo)
-**Description**: Brief summary of what it does, dataset used, and insights gained.  
-**Tools**: Python, Pandas, Scikit-learn
-
-### 🔹 [Project Name](Link-to-Repo)
-**Description**: Forecasting / classification / NLP / dashboarding project.  
-**Tools**: Tableau, SQL, Power BI, etc.
 
 > Check out more in the **Pinned Repositories** section!
 
